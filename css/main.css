@@ -22,7 +22,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: 0.8;
+  opacity: 1;
   visibility: hidden;
   height: 100%; }
   .menu.show {
@@ -186,7 +186,7 @@ main {
   grid-area: job3; }
 
 .job {
-  background: #0d0d0d;
+  background: #302e2e;
   padding: 0.5rem;
   border-bottom: #eece1a 5px solid;
   padding: 1rem; }
@@ -225,8 +225,7 @@ main {
   flex-wrap: wrap;
   justify-content: space-evenly;
   align-items: center;
-  margin-top: 1rem;
-  flex-direction: column; }
+  margin-top: 1rem; }
   .boxes div {
     font-size: 2rem;
     border: 3px #fff solid;
