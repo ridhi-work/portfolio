@@ -280,7 +280,12 @@ main {
       margin-bottom: 1rem;
       font-size: 1rem;
       padding: 0.2rem 1rem;
-      background: rgba(5, 5, 5, 0.5); } }
+      background: rgba(5, 5, 5, 0.5); }
+  .bio {
+    font-size: 1rem; }
+  .boxes div {
+    font-size: 1rem;
+    border: 1px #fff solid; } }
 
 @media screen and (max-width: 500px) {
   main#home h1 {
