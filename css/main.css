@@ -190,6 +190,10 @@ main {
   padding: 0.5rem;
   border-bottom: #eece1a 5px solid;
   padding: 1rem; }
+  .job ul {
+    list-style-type: none; }
+    .job ul li {
+      margin-bottom: 0.8rem; }
 
 .projects {
   display: grid;
